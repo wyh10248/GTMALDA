@@ -12,3 +12,5 @@ torch_geometric  2.4.0
 
 numpy  1.24.4
 
+### step
+run `main.py` 
