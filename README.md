@@ -1,7 +1,7 @@
 ### A Graph Transformer-Based Method for Predicting LncRNA-Disease Associations Using Matrix Factorization and Automatic Meta-Path Generation
 
 ### The workflow of the GTMALDA 
-![g](https://github.com/wyh10248/GTMALDA/assets/127478574/c88a9019-798b-426e-904d-b07193c4d8d8)
+![GTMA](https://github.com/wyh10248/GTMALDA/assets/127478574/15e5b67d-c11a-4da3-a87c-00b371743b58)
 
 ### Requirements
 torch 2.0.1
